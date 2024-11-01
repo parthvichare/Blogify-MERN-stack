@@ -1,0 +1,66 @@
+Blog Created User
+
+body: 
+"I love to Do Gym"
+createdAt: "2024-10-30T11:25:01.214Z"
+createdBy: {_id: '6720bd75e87dba6a56b3bbe5', firstname: 'siddesh', email: 'siddeshvichare777@gmail.com', password: '2b00e00a93dcfb111c8c720d2435dc218e7e99717c45d8f04463d8b1f937ec17', createdAt: '2024-10-29T10:48:21.820Z', …}
+title
+
+_id: "6722178ddc6795166d7959d1"
+
+
+
+Comment Created User
+
+blogId: "6722178ddc6795166d7959d1"
+content: "Hi"
+createdAt
+: 
+"2024-10-30T14:48:01.765Z"
+createdBy: {_id: '67223c10e220229b3e4312b7', firstname: 'Mayuri', email: 'mayuri@gmail.com', password: '0729c9b3aebb30a71cad36fc88e73ad4b3af07c77b7023bba71fdbe32831901a', createdAt: '2024-10-30T14:00:48.656Z', …}
+updatedAt: "2024-10-30T14:48:01.765Z"
+__v
+: 
+0
+_id: "67224721455ce8661e45e17a"
+
+///
+blogId: "6722178ddc6795166d7959d1"
+content: "Great"
+createdAt
+: 
+"2024-10-30T16:11:19.881Z"
+createdBy: {_id: '6711cce99575e4b0c479ac71', firstname: 'Parth', email: 'parthuvichare9@gmail.com', password: '0f620d2d091a818cf1acb4195128722ea5dbf602ddaeaf1c771655fb504f228b', profileImageUrl: '/uploads/1729219817760-Add a heading (1).jpg', …}
+updatedAt: 
+"2024-10-30T16:11:19.881Z"
+__v
+: 
+0
+_id: "67225aa72977670d8b0ea18c"
+
+
+
+
+
+
+blogId: "6722178ddc6795166d7959d1"
+content
+: 
+"HI Im siddesh"
+createdAt
+: 
+"2024-10-30T16:12:54.405Z"
+createdBy: {_id: '6720bd75e87dba6a56b3bbe5', firstname: 'siddesh', email: 'siddeshvichare777@gmail.com', password: '2b00e00a93dcfb111c8c720d2435dc218e7e99717c45d8f04463d8b1f937ec17', createdAt: '2024-10-29T10:48:21.820Z', …}
+updatedAt
+: 
+"2024-10-30T16:12:54.405Z"
+__v
+: 
+0
+_id: "67225b063e11fe83310fbb37"
+
+
+
+if(blog.createdBy.id===comment.createdBy.id && ){
+    //User can delete any comment
+}
